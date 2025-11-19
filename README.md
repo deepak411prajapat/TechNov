@@ -45,7 +45,7 @@ Google Fonts	                 Typography
 
 ⚙️ Setup Instructions
 1. Clone the Repository
-   git clone https://github.com/your-username/startup-landing-page.git
+   git clone https://github.com/deepak411prajapat/TechNov.git
 
 2. Navigate to Project Folder
    cd TechNov
@@ -53,4 +53,5 @@ Google Fonts	                 Typography
 3. Open in Browser
    Simply open:
    index.html
+   
 No build step required.
