@@ -95,3 +95,9 @@ No build step required.
 🚀 Live Demo
 
 https://technovv.netlify.app/
+
+👨‍💻 Author
+
+Deepak Prajapat
+Frontend Developer | MERN Stack Enthusiasm
+GitHub: https://github.com/deepak411prajapat
