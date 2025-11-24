@@ -1,4 +1,4 @@
-# 🚀 Modern Startup Landing Page + Portfolio — HTML, CSS & JavaScript
+# 🚀 Modern Startup Landing Page
 
 A clean, responsive, and modern Landing Page + Portfolio Website built using HTML, CSS, and Vanilla JavaScript.
 This project is designed to help beginners understand real-world website structure, styling, responsiveness, and form validation.
